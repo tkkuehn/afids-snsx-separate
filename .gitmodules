@@ -1,0 +1,5 @@
+[submodule "afids-groundtruth-snsx"]
+	path = afids-groundtruth-snsx
+	url = git@github.com:tkkuehn/afids-groundtruth-snsx.git
+	datalad-id = ac698d81-a55d-4863-a56a-fcbabd7c4909
+	datalad-url = git@github.com:tkkuehn/afids-groundtruth-snsx.git
