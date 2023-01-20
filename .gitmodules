@@ -3,3 +3,8 @@
 	url = git@github.com:tkkuehn/afids-groundtruth-snsx.git
 	datalad-id = ac698d81-a55d-4863-a56a-fcbabd7c4909
 	datalad-url = git@github.com:tkkuehn/afids-groundtruth-snsx.git
+[submodule "bids-snsx"]
+	path = bids-snsx
+	url = git@github.com:tkkuehn/bids-snsx.git
+	datalad-id = fdf75bf9-031a-42e3-b05a-837e4b9ce2a4
+	datalad-url = git@github.com:tkkuehn/bids-snsx.git
